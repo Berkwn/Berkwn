@@ -6,8 +6,14 @@ name: Generate Snake
 
 on:
   schedule:
-      # every 6 hours
-    - cron: "0 */6 * * *"
+      # run outomatically every 24 hours
+    - cron: "0 */24 * * *"
+      #allows to maiually run the job at any time
+      workflow_dispatch:
+      #run on evert push on the master branch
+      push:
+        branches:
+        -master
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
