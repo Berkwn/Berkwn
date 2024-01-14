@@ -1,4 +1,4 @@
-  [![MasterHead](https://www.industryconnect.org/wp-content/uploads/2018/10/front-end.jpg)
+  
 <h1 align="center">Hi 👋, I'm Berkan</h1>
 <h3 align="center">Merhaba ben JR Frontend developer' alanında kendimi geliştirmek üzere buradayım. herkese bol şans...</h3>
 
