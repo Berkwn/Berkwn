@@ -1,6 +1,6 @@
   
 <h1 align="center">Hi 👋, I'm Berkan</h1>
-<h3 align="center">Merhaba ben JR Frontend developer' alanında kendimi geliştirmek üzere buradayım. herkese bol şans...</h3>
+<h3 align="center">Merhaba ben JR developer' herkese bol şans...</h3>
 
 <p align="left"> <a href="https://twitter.com/beko di tutti capi" target="blank"><img src="https://img.shields.io/twitter/follow/beko di tutti capi?logo=twitter&style=for-the-badge" alt="beko di tutti capi" /></a> </p>
 
