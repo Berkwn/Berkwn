@@ -4,11 +4,8 @@
 
 <p align="left"> <a href="https://twitter.com/beko di tutti capi" target="blank"><img src="https://img.shields.io/twitter/follow/beko di tutti capi?logo=twitter&style=for-the-badge" alt="beko di tutti capi" /></a> </p>
 
-- 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning **Javascript**
-
-- 💬 Ask me about **HTML CSS BOOTSTRAP**
+- 💬 Ask me about **HTML CSS BOOTSTRAP C# JAVASCRİPT Angular.JS MS SQL SERVER**
 
 - 📫 How to reach me **berkand180@gmail.com**
 
