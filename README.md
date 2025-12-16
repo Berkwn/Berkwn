@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/beko di tutti capi" target="blank"><img src="https://img.shields.io/twitter/follow/beko di tutti capi?logo=twitter&style=for-the-badge" alt="beko di tutti capi" /></a> </p>
 
 
-- 💬 Ask me about **HTML CSS BOOTSTRAP C# JAVASCRİPT Angular.JS MS SQL SERVER**
+- 💬 Ask me about **HTML CSS BOOTSTRAP C# .NET 6/7/8/9/10 Entity Framework, JAVASCRİPT Angular.JS,React.JS MS SQL SERVER**
 
 - 📫 How to reach me **berkand180@gmail.com**
 
